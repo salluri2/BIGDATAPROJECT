@@ -16,3 +16,7 @@ However, there is inconsistency in the data which needs to be pre-processed in o
 
 
 Link: https://registry.opendata.aws/nyc-tlc-trip-records-pds/
+
+# Research Objectives:
+Using the dataset we can predict at which time most number of trips take place, the most used payment type by the customers. 
+Most used route by the passengers so that we can increase the services for that particular route.
