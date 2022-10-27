@@ -1,4 +1,4 @@
-# BIGDATAPROJECT
+# BIG_DATA_FINALPROJECT
 
 # Team Members
 * Sumanth Reddy Alluri
